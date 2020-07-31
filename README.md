@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://github.com/journey-ad/journey-ad/blob/master/crino.gif" width="100">
 
 ### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
