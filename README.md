@@ -1,33 +1,74 @@
-<img src="https://github.com/journey-ad/journey-ad/blob/master/crino.gif" width="100">
+<img src="https://github.com/YouEclipse/YouEclipse/blob/master/mario.gif" width="100">
 
-### Hi there 👋 ![](https://visitor-badge.laobi.icu/badge?page_id=journey-ad.readme)
+### Hi there 👋
+
+#### About me
+
+- 🔭 I’m currently working on [KLOOK](https://www.klook.com) as a backend engineer.
+- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io) and [Istio](https://istio.io).
+- 💬 Ask me about anything.
+- 🛩️ How to reach me: [@YouEclipse](https://t.me/YouEclipse).
+- 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
+[![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 
-#### Console&Game
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
+[![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-istio-466bb0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyMCAzMjAiPjxnIGlkPSJsb2dvIiBmaWxsPSIjZmZmIj48cG9seWdvbiBpZD0iaHVsbCIgcG9pbnRzPSI4MCAyNTAgMjQwIDI1MCAxNDAgMjgwIDgwIDI1MCIvPjxwb2x5Z29uIGlkPSJtYWluc2FpbCIgcG9pbnRzPSI4MCAyNDAgMTQwIDIzMCAxNDAgMTIwIDgwIDI0MCIvPjxwb2x5Z29uIGlkPSJoZWFkc2FpbCIgcG9pbnRzPSIxNTAgMjMwIDI0MCAyNDAgMTUwIDQwIDE1MCAyMzAiLz48L2c+PC9zdmc+&logoColor=ffffff)](https://istio.io/)
+
 <table>
 <tr>
 <td valign="top" width="50%">
+
+<!-- waka-box start -->
+#### <a href="https://gist.github.com/9bc7025496e478f439b9cd43eba989a4" target="_blank">📊 Weekly development breakdown</a>
+```text
+Go         🕓 17h2m ███████████████▋░░░░░░░░░░░░ 55.9%
+Markdown   🕓 11h5m ██████████▏░░░░░░░░░░░░░░░░░ 36.4%
+Other      🕓 53m   ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.9%
+YAML       🕓 45m   ▋░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.5%
+SQL        🕓 24m   ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.3%
+```
+<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
+<!-- waka-box end -->
+
+[powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🔫 Counter-Strike: Global Offensive  🕘 1546 hrs 25 mins
+🚓 Grand Theft Auto V                🕘 52 hrs 15 mins
+💻 Wallpaper Engine                  🕘 39 hrs 59 mins
+🍳 PLAYERUNKNOWN'S BATTLEGROUNDS     🕘 34 hrs 40 mins
+🌏 Sid Meier's Civilization V        🕘 11 hrs 9 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
+
+[powered by steam-box](https://github.com/YouEclipse/steam-box)
+
+</td>
+</tr>
+</table>
+
 <!--
-**zhio/zhio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YouEclipse/YouEclipse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on [KLOOK](https://www.klook.com)
+- 🌱 I’m currently learning Kubernetes and Istio
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
