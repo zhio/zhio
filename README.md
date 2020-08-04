@@ -21,7 +21,9 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-istio-466bb0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyMCAzMjAiPjxnIGlkPSJsb2dvIiBmaWxsPSIjZmZmIj48cG9seWdvbiBpZD0iaHVsbCIgcG9pbnRzPSI4MCAyNTAgMjQwIDI1MCAxNDAgMjgwIDgwIDI1MCIvPjxwb2x5Z29uIGlkPSJtYWluc2FpbCIgcG9pbnRzPSI4MCAyNDAgMTQwIDIzMCAxNDAgMTIwIDgwIDI0MCIvPjxwb2x5Z29uIGlkPSJoZWFkc2FpbCIgcG9pbnRzPSIxNTAgMjMwIDI0MCAyNDAgMTUwIDQwIDE1MCAyMzAiLz48L2c+PC9zdmc+&logoColor=ffffff)](https://istio.io/)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 
 
