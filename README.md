@@ -16,11 +16,11 @@
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 [![](https://img.shields.io/badge/-istio-466bb0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDMyMCAzMjAiPjxnIGlkPSJsb2dvIiBmaWxsPSIjZmZmIj48cG9seWdvbiBpZD0iaHVsbCIgcG9pbnRzPSI4MCAyNTAgMjQwIDI1MCAxNDAgMjgwIDgwIDI1MCIvPjxwb2x5Z29uIGlkPSJtYWluc2FpbCIgcG9pbnRzPSI4MCAyNDAgMTQwIDIzMCAxNDAgMTIwIDgwIDI0MCIvPjxwb2x5Z29uIGlkPSJoZWFkc2FpbCIgcG9pbnRzPSIxNTAgMjMwIDI0MCAyNDAgMTUwIDQwIDE1MCAyMzAiLz48L2c+PC9zdmc+&logoColor=ffffff)](https://istio.io/)
 
 
