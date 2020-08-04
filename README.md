@@ -4,20 +4,20 @@
 
 #### About me
 
-- 🔭 I’m currently working on [KLOOK](https://www.klook.com) as a backend engineer.
-- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io) and [Istio](https://istio.io).
+- 🔭 I’m currently working on something cool 😉
+- 🌱 I’m currently learning [C++](http://www.cplusplus.com/) and [Go](https://golang.org/).
 - 💬 Ask me about anything.
-- 🛩️ How to reach me: [@YouEclipse](https://t.me/YouEclipse).
-- 🎮 A Nintendo fan and FPS games lover , you can also find me on [Steam](https://steamcommunity.com/id/jiangzhangzhe).
+- 🛩️ How to reach me: [@zhio](zhioccc@163.com).
+
 
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/macOS-Catalina-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/catalina/)>)
-[![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
@@ -25,7 +25,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/80356bae3f9208a3332e231da508caea" target="_blank">📊 Weekly development breakdown</a>
@@ -37,23 +37,6 @@ Go  🕓 0s  ░░░░░░░░░░░░░░░░░░░░░░�
 <!-- waka-box end -->
 
 [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go)
-
-</td>
-<td valign="top" width="50%">
-
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/8bf56353bcb3a8e798b55b546b9619cf" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🔫 Counter-Strike: Global Offensive  🕘 1546 hrs 25 mins
-🚓 Grand Theft Auto V                🕘 52 hrs 15 mins
-💻 Wallpaper Engine                  🕘 39 hrs 59 mins
-🍳 PLAYERUNKNOWN'S BATTLEGROUNDS     🕘 34 hrs 40 mins
-🌏 Sid Meier's Civilization V        🕘 11 hrs 9 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-[powered by steam-box](https://github.com/YouEclipse/steam-box)
 
 </td>
 </tr>
