@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://giphy.com/gifs/KAq5w47R9rmTuvWOWa/html5" width="100"><img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/200.webp" width="100">
+  <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/200.webp">
 </p>
 <br>
 <br>
