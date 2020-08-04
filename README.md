@@ -1,14 +1,10 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <p align="center">
   <img src="https://i.giphy.com/media/vzO0Vc8b2VBLi/200.webp">
 </p>
-<br>
-<br>
-<br>
 <br>
 
 ### Hi there 👋
