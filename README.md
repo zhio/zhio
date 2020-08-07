@@ -33,7 +33,8 @@
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-
+[![Flask](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://flask.palletsprojects.com/en/1.1.x/)
+[![Django](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://www.djangoproject.com/)
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/80356bae3f9208a3332e231da508caea" target="_blank">📊 Weekly development breakdown</a>
 ```text
